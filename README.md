@@ -1,3 +1,1 @@
-<div>
-  <a href"https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&count_private=true"></a>
-</div>
+![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=VSDrops)
